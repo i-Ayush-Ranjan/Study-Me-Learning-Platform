@@ -1,8 +1,49 @@
-# Study-Me-Learning-Platform
- 📚 Study Me – Learn, Build, Grow Study Me is an all-in-one learning platform designed to empower students and professionals with in-demand tech and business skills. We offer curated courses in: 
- 💻 Web Development – Frontend, backend, full stack with hands-on projects  
- 📊 Data Analytics – Excel, SQL, Python, Power BI, and more  
- 🎨 UI/UX Design – User research, wireframing, prototyping, design systems  
- ₿ Crypto & Blockchain Business – Crypto fundamentals, Web3, DeFi strategies  
- Whether you're just getting started or looking to upskill, Study Me helps you learn through interactive lessons, real-world projects, and expert guidance.  
- 🚀 Learn at your pace. Build your future with us.
+# 🌐 Study Me
+
+**Your gateway to learning Web Development, Data Analytics, UI/UX Design, Crypto, and Business Fundamentals – all in one place.**
+
+---
+
+## 📖 About
+
+**Study Me** is an educational website built using only **HTML** and **CSS**, designed to provide beginners and enthusiasts with resources, guides, and inspiration to master key tech and business skills.
+
+---
+
+## 📚 Topics Covered
+
+### 🌍 Web Development
+- HTML, CSS basics
+- Building responsive layouts
+- Portfolio projects
+
+### 📊 Data Analytics
+- Understanding data
+- Tools & concepts (Excel, SQL basics)
+- Real-world use cases
+
+### 🎨 UI/UX Design
+- What is good design?
+- Wireframes & mockups
+- Design tools and tips
+
+### ₿ Cryptocurrency
+- Intro to blockchain
+- How crypto works
+- Wallets, exchanges, and safety
+
+### 💼 Business & Strategy
+- Basics of startups & entrepreneurship
+- Online business models
+- Digital marketing fundamentals
+
+---
+
+## 🛠️ Built With
+
+- **HTML5**
+- **CSS3** (including Flexbox and Grid)
+- Fully responsive design
+- Lightweight and fast
+
+---
